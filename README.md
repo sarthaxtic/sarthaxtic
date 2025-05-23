@@ -33,7 +33,6 @@
 - 🤖 NLP + Rule-based compilers
 - ⚙️ Scalable backend architecture
 - 📊 Python for data analysis & dashboards
-- 🏀 Basketball (on and off the court)
 - 📚 Books on habit, focus, and timeless wisdom
 
 ---
