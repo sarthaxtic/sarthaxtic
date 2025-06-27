@@ -41,7 +41,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sarthaxtic&show_icons=true&theme=tokyonight&hide=issues&count_private=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthaxtic&theme=tokyonight" height="180px"/>
 </p>
 
 <p align="center">
