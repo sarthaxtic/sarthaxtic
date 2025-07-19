@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-- 🧠 3rd year engineering student
+- 🧠 4th year engineering student
 - 🏆 GSSOC 2024 Champion (Top 15%)
 - 🐱‍💻 LeetCode streaker | 1600+ rating | Knight on the way 🏇
 - 🧰 Projects in Machine Learning, React + Node.js, Compiler Design
