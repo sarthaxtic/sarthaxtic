@@ -37,6 +37,9 @@
 
 ---
 
+[![An image of @sarthaxtic's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sarthaxtic)](https://holopin.io/@sarthaxtic)
+
+---
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -51,5 +54,7 @@
 ---
 
 > _“Consistency is what transforms average into excellence.”_ — You're not here by chance, you're here to build something epic. Let's get it! 🚀
+
+
 
 
