@@ -12,6 +12,7 @@
 ## 🚀 About Me
 
 - 🧠 Final year engineering student
+- 👽 Meta Hacker Cup 2025 rank 1638
 - 🏆 GSSOC 2025 Mentor and GSSOC 2024 Champion (Top 15%)
 - 🐱‍💻 Specialist in Codeforces | 🏇 Knight in Leetcode
 - 🧰 Projects in Machine Learning, React + Node.js, Compiler Design
