@@ -7,8 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=435&lines=Let's+Build+Something+Cool!;Learning+Everyday+%F0%9F%93%9A;Open+Source+is+Love+%F0%9F%A4%97" alt="Typing SVG" />
 </p>
 
-https://camo.githubusercontent.com/97d3d3f9ad391a9f377507f02e458fc36e2a87987c94bcd8500bd418be5f5789/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d522d4a68657265267374796c653d666c61742d73717561726526636f6c6f723d303030303030266c6162656c436f6c6f723d303030303030
-
 ---
 
 ## 🚀 About Me
