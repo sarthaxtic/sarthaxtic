@@ -7,8 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=435&lines=Let's+Build+Something+Cool!;Learning+Everyday+%F0%9F%93%9A;Open+Source+is+Love+%F0%9F%A4%97" alt="Typing SVG" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=sarthaxtic&base=100&color=blueviolet)
-
 ---
 
 ## 🚀 About Me
@@ -44,6 +42,8 @@
 
 ---
 ## 📈 GitHub Stats
+
+![](https://komarev.com/ghpvc/?username=sarthaxtic&base=100&color=blueviolet)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sarthaxtic&show_icons=true&theme=tokyonight&hide=issues&count_private=true" height="180px"/>
